@@ -2,18 +2,17 @@
 
 ## 🏭 Project Overview
 
-**SupplyProphet™** is a machine learning masterpiece crafted for **Laitinelle Dairies™**, a fictional Algerian yogurt empire, as part of a Gomycode Data Scientist certification. Built in a high-octane one-week sprint (May 21–27, 2025), it delivers a killer sales forecasting pipeline using **Prophet** and a slick supply chain insight (reorder alerts) to keep inventory tighter than a glass jar’s lid. This project fuses technical wizardry, business swagger, and a narrative so vivid it’ll make the jury weep yogurt tears. Designed to answer every possible question, it’s your cheat sheet to slay the Gomycode presentation.
+**SupplyProphet™** is a machine learning masterpiece crafted for **Laitinelle Dairies™**, a fictional Algerian yogurt company, as part of a Gomycode Data Scientist certification. It delivers a sales forecasting pipeline using **Prophet** and a supply chain insight (reorder alerts) to keep inventory tighter than a glass jar’s lid. This project fuses technicality, business, and a narrative. 
 
 ### 🎯 Objectives
 
 - **Sales Forecasting**: Predict daily yogurt sales (`units_sold`, `sales_dzd`) with time-series magic, nailing seasonality, promotions, and temperature vibes.
 - **Supply Chain Insight**: Flag reorder alerts to dodge stockouts and cut waste, keeping Laitinelle’s shelves stocked with fresh *Yaourt Fraîcheur D’Eté*.
 - **Narrative & Visuals**: Spin a story about Laitinelle’s quest for data-driven glory, backed by Plotly visuals that pop like a mint yogurt swirl.
-- **Jury Domination**: Arm you with a README so detailed it answers every question, from “Why Prophet?” to “What’s the ROI?” to “What if the data’s cursed?”
 
 ### 📍 Why This Matters
 
-In Algeria’s dairy game, yogurt’s 14-day shelf life is a ticking bomb. Overstock, and you’re tossing spoiled jars; understock, and customers ditch you for competitors. **SupplyCast™** tackles these pain points with AI, simulating real-world challenges to save Laitinelle millions. It’s not just yogurt—it’s a blueprint for any business juggling perishables, from Algiers to the multiverse.
+In Algeria’s dairy game, yogurt’s 14-day shelf life is a ticking bomb. Overstock, and you’re tossing spoiled jars; understock, and customers ditch you for competitors. **SupplyProphet™** tackles these pain points with AI, simulating real-world challenges to save Laitinelle millions. It’s not just yogurt—it’s a blueprint for any business juggling perishables, from Algiers to the multiverse.
 
 ### 🕒 Project Constraints
 
@@ -25,7 +24,7 @@ In Algeria’s dairy game, yogurt’s 14-day shelf life is a ticking bomb. Overs
 
 ## 🧃 About Laitinelle Dairies™
 
-Founded in 2018, **Laitinelle Dairies™** is a fictional Algerian brand slinging premium probiotic yogurts under the *Yaourt Fraîcheur D’Eté* line. Operating in Algiers, Oran, Constantine, and Blida, it’s the boutique darling of urban cafes, blending Mediterranean soul with gut-health science.
+Founded in 2018, **Laitinelle Dairies™** is a fictional Algerian brand slinging premium probiotic yogurts under the *Yaourt Fraîcheur D’Eté* line. Operating in Algiers, Oran, Constantine, and Blida.
 
 ### 🎯 Business Challenges
 
@@ -38,8 +37,7 @@ Founded in 2018, **Laitinelle Dairies™** is a fictional Algerian brand slingin
 
 - **Background**: Algerian-French food scientist, Sorbonne-trained, obsessed with probiotics and Algerian dairy heritage.
 - **Personality**: Visionary, warm, quotes *Dune* like a boss (“The spice must flow!”). Sips mint tea while plotting data revolutions.
-- **Role**: Your fictional client, hiring you to build SupplyCast™ and save her empire.
-- **Quote**: “Data is our freshest ingredient. SupplyCast™ ensures every jar is a moment of Mediterranean magic.”
+- **Role**: A Junior Data Scientist, building SupplyProphet™ and save this issue.
 
 ### 🧁 Brand Essence
 
